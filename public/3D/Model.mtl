@@ -1,0 +1,276 @@
+# Blender 4.1.1 MTL File: 'Model.blend'
+# www.blender.org
+
+newmtl Betim_-_Madeira1
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Madeira Multilaminada.jpg
+map_Ns textures/Madeira Multilaminada rough.jpg
+map_Bump -bm 0.200000 textures/Madeira Multilaminada norm.jpg
+
+newmtl Betim_-_Madeira2
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Madeira2.jpg
+map_Bump -bm 1.000000 textures/Madeira2 norm.jpg
+
+newmtl Betina_-_Madeira1
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Madeira Multilaminada.jpg
+map_Ns textures/Madeira Multilaminada rough.jpg
+map_Bump -bm 0.400000 textures/Madeira Multilaminada norm.jpg
+
+newmtl Betina_-_Madeira2
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Madeira2.jpg
+map_Bump -bm 1.000000 textures/Madeira2 norm.jpg
+
+newmtl Borracha_Preta
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.015068 0.015068 0.015068
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.200000
+d 1.000000
+illum 2
+
+newmtl Couro
+Ns 57.164467
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 5 5 5 textures/Couro 8k Bk_Color.jpg
+map_Ks -s 5 5 5 textures/Couro 8k Bump.jpg
+
+newmtl Cromo_S
+Ns 810.000000
+Ka 0.950000 0.950000 0.950000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Fine_leather_black
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ks textures/Fine_leather_black_Specular.jpg
+map_Ns textures/Fine_leather_black_Roughness.jpg
+map_refl textures/Fine_leather_black_Metallic.jpg
+
+newmtl Metal_dark
+Ka 1.000000 1.000000 1.000000
+Ks 0.350227 0.350227 0.350227
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Metal028_1K_Color.jpg
+map_Ns textures/Metal028_1K_Roughness.jpg
+map_refl textures/Metal028_1K_Metalness.jpg
+
+newmtl Rockingchair_01
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Rockingchair_01_diff_4k.jpg
+map_Ns textures/Rockingchair_01_roughness_4k.jpg
+map_refl textures/Rockingchair_01_metallic_4k.exr
+map_Bump -bm 1.000000 textures/Rockingchair_01_nor_gl_4k.exr
+
+newmtl SchoolChair_01
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/SchoolChair_01_diff_4k.jpg
+map_Ns textures/SchoolChair_01_roughness_4k.jpg
+map_refl textures/SchoolChair_01_metallic_4k.exr
+map_Bump -bm 1.000000 textures/SchoolChair_01_nor_gl_4k.exr
+
+newmtl SchoolChair_01.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/SchoolChair_01_diff_4k.jpg
+map_Ns textures/SchoolChair_01_roughness_4k.jpg
+map_refl textures/SchoolChair_01_metallic_4k.exr
+map_Bump -bm 1.000000 textures/SchoolChair_01_nor_gl_4k.exr
+
+newmtl Teak_Wood
+Ns 562.500000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.300000 0.300000 0.300000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.300000 textures/Madeira-05_normal.jpg
+
+newmtl Velvet
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl White_Oak
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns -s 2 2 2 textures/Wood-roughness.jpg
+map_Bump -s 2 2 2 -bm 1.000000 textures/Wood-normal.jpg
+
+newmtl White_Oak.001
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns -s 2 2 2 textures/Wood-roughness.jpg
+map_Bump -s 2 2 2 -bm 1.000000 textures/Wood-normal.jpg
+
+newmtl Wood
+Ka 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Wood067_4K_Color.jpg
+map_Ns textures/Wood067_4K_Roughness.jpg
+
+newmtl Wood_Black_UA
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns -s 10 1 10 textures/Wood063_2K_Roughness.jpg
+
+newmtl Wooden_kitchen_chair
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Wooden kitchen chair_Diffuse.tga
+map_Ns textures/Wooden kitchen chair_Roughness.tga
+map_refl textures/Wooden kitchen chair_Metallic.tga
+map_Bump -bm 1.000000 textures/Wooden kitchen chair_Normal.tga
+
+newmtl brown_wood
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/ACW 2556_Manhattan Walnut.jpg
+map_Bump -bm 0.150000 textures/ACW 2556_Manhattan Walnut_normal.jpg
+
+newmtl chair
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.195983 0.195983 0.195983
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl fabric
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.345455 0.345455 0.345455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns textures/Fabric032_2K_Roughness.jpg
+map_Bump -bm 0.300000 textures/Fabric032_2K_Normal.jpg
+
+newmtl painted_wooden_chair_01
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/painted_wooden_chair_01_diff_8k.jpg
+map_Ns textures/painted_wooden_chair_01_rough_8k.jpg
+map_refl textures/painted_wooden_chair_01_metal_8k.exr
+map_Bump -bm 1.000000 textures/painted_wooden_chair_01_nor_gl_8k.exr
+
+newmtl wood_fine_dark
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 textures/WoodFineDark001_NRM_4K.jpg
+
+newmtl woood
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/low_DefaultMaterial_BaseColor.jpg
+map_Ns textures/low_DefaultMaterial_Roughness.jpg
+map_refl textures/low_DefaultMaterial_Metallic.jpg
+map_Bump -bm 0.690000 textures/low_DefaultMaterial_Normal.jpg
